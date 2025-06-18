@@ -1945,15 +1945,15 @@
         "Weighted Fund Yield CZK": "0.00 %",
         "PLZ Yield": "-0.60 %",
         "Weighted Fund Yield PLN": "-0.12 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "0.23 %",
-        "Weighted Fund Yield USD": "-0.07 %",
-        "Weighted Fund Yield HUF": "0.11 %",
-        "Weighted Fund Yield CZK": "0.22 %",
-        "Weighted Fund Yield PLN": "-0.37 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "0.23 %",
+      "Weighted Fund Yield USD": "-0.07 %",
+      "Weighted Fund Yield HUF": "0.11 %",
+      "Weighted Fund Yield CZK": "0.22 %",
+      "Weighted Fund Yield PLN": "-0.37 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -3941,15 +3941,15 @@
         "Weighted Fund Yield CZK": "0.33 %",
         "PLZ Yield": "2.92 %",
         "Weighted Fund Yield PLN": "0.28 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "5.56 %",
-        "Weighted Fund Yield USD": "5.24 %",
-        "Weighted Fund Yield HUF": "5.43 %",
-        "Weighted Fund Yield CZK": "5.55 %",
-        "Weighted Fund Yield PLN": "4.93 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "5.56 %",
+      "Weighted Fund Yield USD": "5.24 %",
+      "Weighted Fund Yield HUF": "5.43 %",
+      "Weighted Fund Yield CZK": "5.55 %",
+      "Weighted Fund Yield PLN": "4.93 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -5937,15 +5937,15 @@
         "Weighted Fund Yield CZK": "0.35 %",
         "PLZ Yield": "2.96 %",
         "Weighted Fund Yield PLN": "0.29 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "5.54 %",
-        "Weighted Fund Yield USD": "5.22 %",
-        "Weighted Fund Yield HUF": "5.41 %",
-        "Weighted Fund Yield CZK": "5.53 %",
-        "Weighted Fund Yield PLN": "4.91 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "5.54 %",
+      "Weighted Fund Yield USD": "5.22 %",
+      "Weighted Fund Yield HUF": "5.41 %",
+      "Weighted Fund Yield CZK": "5.53 %",
+      "Weighted Fund Yield PLN": "4.91 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -7324,15 +7324,15 @@
         "Weighted Fund Yield CZK": "0.00 %",
         "PLZ Yield": "-0.60 %",
         "Weighted Fund Yield PLN": "-0.12 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "8.79 %",
-        "Weighted Fund Yield USD": "8.46 %",
-        "Weighted Fund Yield HUF": "8.66 %",
-        "Weighted Fund Yield CZK": "8.78 %",
-        "Weighted Fund Yield PLN": "8.14 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "8.79 %",
+      "Weighted Fund Yield USD": "8.46 %",
+      "Weighted Fund Yield HUF": "8.66 %",
+      "Weighted Fund Yield CZK": "8.78 %",
+      "Weighted Fund Yield PLN": "8.14 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -8402,15 +8402,15 @@
         "Weighted Fund Yield CZK": "0.00 %",
         "PLZ Yield": "-0.60 %",
         "Weighted Fund Yield PLN": "-0.12 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "3.87 %",
-        "Weighted Fund Yield USD": "3.56 %",
-        "Weighted Fund Yield HUF": "3.74 %",
-        "Weighted Fund Yield CZK": "3.86 %",
-        "Weighted Fund Yield PLN": "3.25 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "3.87 %",
+      "Weighted Fund Yield USD": "3.56 %",
+      "Weighted Fund Yield HUF": "3.74 %",
+      "Weighted Fund Yield CZK": "3.86 %",
+      "Weighted Fund Yield PLN": "3.25 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -10368,15 +10368,15 @@
         "Weighted Fund Yield CZK": "1.09 %",
         "PLZ Yield": "7.54 %",
         "Weighted Fund Yield PLN": "1.00 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "8.52 %",
-        "Weighted Fund Yield USD": "8.20 %",
-        "Weighted Fund Yield HUF": "8.39 %",
-        "Weighted Fund Yield CZK": "8.51 %",
-        "Weighted Fund Yield PLN": "7.88 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "8.52 %",
+      "Weighted Fund Yield USD": "8.20 %",
+      "Weighted Fund Yield HUF": "8.39 %",
+      "Weighted Fund Yield CZK": "8.51 %",
+      "Weighted Fund Yield PLN": "7.88 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -14056,15 +14056,14 @@
         "2025-05-31": 0.3
       }
     },
-    "data_structure": {
-      "Total": {
-        "Rate of Participation": "0.00 %",
-        "Weighted Fund Yield EUR": "0.00 %",
-        "Weighted Fund Yield USD": "0.00 %",
-        "Weighted Fund Yield HUF": "0.00 %",
-        "Weighted Fund Yield CZK": "0.00 %",
-        "Weighted Fund Yield PLN": "0.00 %"
-      }
+    "data_structure": {},
+    "data_structure_total": {
+      "Rate of Participation": "0.00 %",
+      "Weighted Fund Yield EUR": "0.00 %",
+      "Weighted Fund Yield USD": "0.00 %",
+      "Weighted Fund Yield HUF": "0.00 %",
+      "Weighted Fund Yield CZK": "0.00 %",
+      "Weighted Fund Yield PLN": "0.00 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -17774,15 +17773,15 @@
         "Weighted Fund Yield CZK": "0.44 %",
         "PLZ Yield": "5.21 %",
         "Weighted Fund Yield PLN": "0.40 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "6.23 %",
-        "Weighted Fund Yield USD": "5.92 %",
-        "Weighted Fund Yield HUF": "6.11 %",
-        "Weighted Fund Yield CZK": "6.22 %",
-        "Weighted Fund Yield PLN": "5.60 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "6.23 %",
+      "Weighted Fund Yield USD": "5.92 %",
+      "Weighted Fund Yield HUF": "6.11 %",
+      "Weighted Fund Yield CZK": "6.22 %",
+      "Weighted Fund Yield PLN": "5.60 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -21477,15 +21476,15 @@
         "Weighted Fund Yield CZK": "0.14 %",
         "PLZ Yield": "-0.44 %",
         "Weighted Fund Yield PLN": "-0.44 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "0.15 %",
-        "Weighted Fund Yield USD": "-0.15 %",
-        "Weighted Fund Yield HUF": "0.03 %",
-        "Weighted Fund Yield CZK": "0.14 %",
-        "Weighted Fund Yield PLN": "-0.45 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "0.15 %",
+      "Weighted Fund Yield USD": "-0.15 %",
+      "Weighted Fund Yield HUF": "0.03 %",
+      "Weighted Fund Yield CZK": "0.14 %",
+      "Weighted Fund Yield PLN": "-0.45 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -25225,15 +25224,15 @@
         "Weighted Fund Yield CZK": "0.00 %",
         "PLZ Yield": "-0.61 %",
         "Weighted Fund Yield PLN": "0.00 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "3.63 %",
-        "Weighted Fund Yield USD": "3.33 %",
-        "Weighted Fund Yield HUF": "3.51 %",
-        "Weighted Fund Yield CZK": "3.63 %",
-        "Weighted Fund Yield PLN": "3.01 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "3.63 %",
+      "Weighted Fund Yield USD": "3.33 %",
+      "Weighted Fund Yield HUF": "3.51 %",
+      "Weighted Fund Yield CZK": "3.63 %",
+      "Weighted Fund Yield PLN": "3.01 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -28928,15 +28927,15 @@
         "Weighted Fund Yield CZK": "0.22 %",
         "PLZ Yield": "-0.37 %",
         "Weighted Fund Yield PLN": "-0.37 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "0.22 %",
-        "Weighted Fund Yield USD": "-0.08 %",
-        "Weighted Fund Yield HUF": "0.10 %",
-        "Weighted Fund Yield CZK": "0.22 %",
-        "Weighted Fund Yield PLN": "-0.37 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "0.22 %",
+      "Weighted Fund Yield USD": "-0.08 %",
+      "Weighted Fund Yield HUF": "0.10 %",
+      "Weighted Fund Yield CZK": "0.22 %",
+      "Weighted Fund Yield PLN": "-0.37 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -31860,15 +31859,15 @@
         "Weighted Fund Yield CZK": "0.05 %",
         "PLZ Yield": "0.89 %",
         "Weighted Fund Yield PLN": "0.03 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "0.41 %",
-        "Weighted Fund Yield USD": "0.10 %",
-        "Weighted Fund Yield HUF": "0.29 %",
-        "Weighted Fund Yield CZK": "0.40 %",
-        "Weighted Fund Yield PLN": "-0.19 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "0.41 %",
+      "Weighted Fund Yield USD": "0.10 %",
+      "Weighted Fund Yield HUF": "0.29 %",
+      "Weighted Fund Yield CZK": "0.40 %",
+      "Weighted Fund Yield PLN": "-0.19 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -34744,15 +34743,15 @@
         "Weighted Fund Yield CZK": "1.72 %",
         "PLZ Yield": "3.06 %",
         "Weighted Fund Yield PLN": "1.44 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "4.67 %",
-        "Weighted Fund Yield USD": "4.36 %",
-        "Weighted Fund Yield HUF": "4.55 %",
-        "Weighted Fund Yield CZK": "4.66 %",
-        "Weighted Fund Yield PLN": "4.05 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "4.67 %",
+      "Weighted Fund Yield USD": "4.36 %",
+      "Weighted Fund Yield HUF": "4.55 %",
+      "Weighted Fund Yield CZK": "4.66 %",
+      "Weighted Fund Yield PLN": "4.05 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -37460,15 +37459,15 @@
         "Weighted Fund Yield CZK": "1.41 %",
         "PLZ Yield": "9.84 %",
         "Weighted Fund Yield PLN": "1.33 %"
-      },
-      "Total": {
-        "Rate of Participation": "100.00 %",
-        "Weighted Fund Yield EUR": "7.19 %",
-        "Weighted Fund Yield USD": "6.87 %",
-        "Weighted Fund Yield HUF": "7.06 %",
-        "Weighted Fund Yield CZK": "7.18 %",
-        "Weighted Fund Yield PLN": "6.55 %"
       }
+    },
+    "data_structure_total": {
+      "Rate of Participation": "100.00 %",
+      "Weighted Fund Yield EUR": "7.19 %",
+      "Weighted Fund Yield USD": "6.87 %",
+      "Weighted Fund Yield HUF": "7.06 %",
+      "Weighted Fund Yield CZK": "7.18 %",
+      "Weighted Fund Yield PLN": "6.55 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -38589,15 +38588,14 @@
         "2020-12-31": 3.34
       }
     },
-    "data_structure": {
-      "Total": {
-        "Rate of Participation": "0.00 %",
-        "Weighted Fund Yield EUR": "0.00 %",
-        "Weighted Fund Yield USD": "0.00 %",
-        "Weighted Fund Yield HUF": "0.00 %",
-        "Weighted Fund Yield CZK": "0.00 %",
-        "Weighted Fund Yield PLN": "0.00 %"
-      }
+    "data_structure": {},
+    "data_structure_total": {
+      "Rate of Participation": "0.00 %",
+      "Weighted Fund Yield EUR": "0.00 %",
+      "Weighted Fund Yield USD": "0.00 %",
+      "Weighted Fund Yield HUF": "0.00 %",
+      "Weighted Fund Yield CZK": "0.00 %",
+      "Weighted Fund Yield PLN": "0.00 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -39718,15 +39716,14 @@
         "2020-12-31": 2.07
       }
     },
-    "data_structure": {
-      "Total": {
-        "Rate of Participation": "0.00 %",
-        "Weighted Fund Yield EUR": "0.00 %",
-        "Weighted Fund Yield USD": "0.00 %",
-        "Weighted Fund Yield HUF": "0.00 %",
-        "Weighted Fund Yield CZK": "0.00 %",
-        "Weighted Fund Yield PLN": "0.00 %"
-      }
+    "data_structure": {},
+    "data_structure_total": {
+      "Rate of Participation": "0.00 %",
+      "Weighted Fund Yield EUR": "0.00 %",
+      "Weighted Fund Yield USD": "0.00 %",
+      "Weighted Fund Yield HUF": "0.00 %",
+      "Weighted Fund Yield CZK": "0.00 %",
+      "Weighted Fund Yield PLN": "0.00 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -40847,15 +40844,14 @@
         "2020-12-31": 2.31
       }
     },
-    "data_structure": {
-      "Total": {
-        "Rate of Participation": "0.00 %",
-        "Weighted Fund Yield EUR": "0.00 %",
-        "Weighted Fund Yield USD": "0.00 %",
-        "Weighted Fund Yield HUF": "0.00 %",
-        "Weighted Fund Yield CZK": "0.00 %",
-        "Weighted Fund Yield PLN": "0.00 %"
-      }
+    "data_structure": {},
+    "data_structure_total": {
+      "Rate of Participation": "0.00 %",
+      "Weighted Fund Yield EUR": "0.00 %",
+      "Weighted Fund Yield USD": "0.00 %",
+      "Weighted Fund Yield HUF": "0.00 %",
+      "Weighted Fund Yield CZK": "0.00 %",
+      "Weighted Fund Yield PLN": "0.00 %"
     },
     "yearly_performance": {
       "last_three_years": {
