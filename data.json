@@ -1889,12 +1889,12 @@
       "UBS (Lux) Bond Fund - Euro High Yield (EUR) I-A1-acc": {
         "ISIN": "LU0415181899",
         "Rate of Participation": "34.79 %",
-        "Yield (FC)": "1.00 %",
-        "EUR Yield": "1.00 %",
+        "Yield (FC)": "0.99 %",
+        "EUR Yield": "0.99 %",
         "Weighted Fund Yield EUR": "0.35 %",
         "USD Yield": "0.69 %",
         "Weighted Fund Yield USD": "0.24 %",
-        "HUF Yield": "0.88 %",
+        "HUF Yield": "0.87 %",
         "Weighted Fund Yield HUF": "0.30 %",
         "CZK Yield": "0.99 %",
         "Weighted Fund Yield CZK": "0.34 %",
@@ -1906,7 +1906,7 @@
         "Rate of Participation": "24.36 %",
         "Yield (FC)": "-1.10 %",
         "EUR Yield": "-0.80 %",
-        "Weighted Fund Yield EUR": "-0.19 %",
+        "Weighted Fund Yield EUR": "-0.20 %",
         "USD Yield": "-1.10 %",
         "Weighted Fund Yield USD": "-0.27 %",
         "HUF Yield": "-0.92 %",
@@ -3890,7 +3890,7 @@
         "Weighted Fund Yield EUR": "3.02 %",
         "USD Yield": "13.83 %",
         "Weighted Fund Yield USD": "2.95 %",
-        "HUF Yield": "14.04 %",
+        "HUF Yield": "14.03 %",
         "Weighted Fund Yield HUF": "2.99 %",
         "CZK Yield": "14.16 %",
         "Weighted Fund Yield CZK": "3.02 %",
@@ -3919,8 +3919,8 @@
         "EUR Yield": "0.19 %",
         "Weighted Fund Yield EUR": "0.03 %",
         "USD Yield": "-0.11 %",
-        "Weighted Fund Yield USD": "-0.01 %",
-        "HUF Yield": "0.08 %",
+        "Weighted Fund Yield USD": "-0.02 %",
+        "HUF Yield": "0.07 %",
         "Weighted Fund Yield HUF": "0.01 %",
         "CZK Yield": "0.19 %",
         "Weighted Fund Yield CZK": "0.03 %",
@@ -5891,7 +5891,7 @@
         "CZK Yield": "8.36 %",
         "Weighted Fund Yield CZK": "2.25 %",
         "PLZ Yield": "7.72 %",
-        "Weighted Fund Yield PLZ": "2.08 %"
+        "Weighted Fund Yield PLZ": "2.07 %"
       },
       "Bank Deposits EUR": {
         "ISIN": "Bank Deposits",
@@ -7272,7 +7272,7 @@
         "EUR Yield": "13.54 %",
         "Weighted Fund Yield EUR": "4.46 %",
         "USD Yield": "13.20 %",
-        "Weighted Fund Yield USD": "4.35 %",
+        "Weighted Fund Yield USD": "4.34 %",
         "HUF Yield": "13.41 %",
         "Weighted Fund Yield HUF": "4.41 %",
         "CZK Yield": "13.53 %",
@@ -7282,17 +7282,17 @@
       },
       "UBS (D) Equity Fund - Global Opportunity": {
         "ISIN": "DE0008488214",
-        "Rate of Participation": "26.13 %",
+        "Rate of Participation": "26.12 %",
         "Yield (FC)": "7.69 %",
         "EUR Yield": "7.69 %",
         "Weighted Fund Yield EUR": "2.01 %",
         "USD Yield": "7.37 %",
         "Weighted Fund Yield USD": "1.92 %",
         "HUF Yield": "7.56 %",
-        "Weighted Fund Yield HUF": "1.98 %",
+        "Weighted Fund Yield HUF": "1.97 %",
         "CZK Yield": "7.68 %",
         "Weighted Fund Yield CZK": "2.01 %",
-        "PLZ Yield": "7.05 %",
+        "PLZ Yield": "7.04 %",
         "Weighted Fund Yield PLZ": "1.84 %"
       },
       "Scottish Mortgage Investment Trust plc fund": {
@@ -10332,7 +10332,7 @@
         "Weighted Fund Yield EUR": "5.81 %",
         "USD Yield": "9.69 %",
         "Weighted Fund Yield USD": "5.62 %",
-        "HUF Yield": "9.89 %",
+        "HUF Yield": "9.88 %",
         "Weighted Fund Yield HUF": "5.73 %",
         "CZK Yield": "10.01 %",
         "Weighted Fund Yield CZK": "5.80 %",
@@ -10376,7 +10376,7 @@
       "Weighted Fund Yield USD": "8.20 %",
       "Weighted Fund Yield HUF": "8.39 %",
       "Weighted Fund Yield CZK": "8.51 %",
-      "Weighted Fund Yield PLZ": "7.88 %"
+      "Weighted Fund Yield PLZ": "7.87 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -17751,7 +17751,7 @@
         "EUR Yield": "6.27 %",
         "Weighted Fund Yield EUR": "5.79 %",
         "USD Yield": "5.95 %",
-        "Weighted Fund Yield USD": "5.50 %",
+        "Weighted Fund Yield USD": "5.49 %",
         "HUF Yield": "6.14 %",
         "Weighted Fund Yield HUF": "5.67 %",
         "CZK Yield": "6.26 %",
@@ -17764,11 +17764,11 @@
         "Rate of Participation": "7.62 %",
         "Yield (FC)": "5.84 %",
         "EUR Yield": "5.84 %",
-        "Weighted Fund Yield EUR": "0.45 %",
+        "Weighted Fund Yield EUR": "0.44 %",
         "USD Yield": "5.52 %",
         "Weighted Fund Yield USD": "0.42 %",
         "HUF Yield": "5.71 %",
-        "Weighted Fund Yield HUF": "0.44 %",
+        "Weighted Fund Yield HUF": "0.43 %",
         "CZK Yield": "5.83 %",
         "Weighted Fund Yield CZK": "0.44 %",
         "PLZ Yield": "5.21 %",
@@ -25222,17 +25222,17 @@
         "Weighted Fund Yield HUF": "0.00 %",
         "CZK Yield": "-0.02 %",
         "Weighted Fund Yield CZK": "0.00 %",
-        "PLZ Yield": "-0.60 %",
+        "PLZ Yield": "-0.61 %",
         "Weighted Fund Yield PLZ": "0.00 %"
       }
     },
     "data_structure_total": {
       "Rate of Participation": "100.00 %",
       "Weighted Fund Yield EUR": "3.63 %",
-      "Weighted Fund Yield USD": "3.33 %",
+      "Weighted Fund Yield USD": "3.32 %",
       "Weighted Fund Yield HUF": "3.51 %",
       "Weighted Fund Yield CZK": "3.63 %",
-      "Weighted Fund Yield PLZ": "3.01 %"
+      "Weighted Fund Yield PLZ": "3.02 %"
     },
     "yearly_performance": {
       "last_three_years": {
@@ -28921,8 +28921,8 @@
         "Weighted Fund Yield EUR": "0.22 %",
         "USD Yield": "-0.08 %",
         "Weighted Fund Yield USD": "-0.08 %",
-        "HUF Yield": "0.11 %",
-        "Weighted Fund Yield HUF": "0.11 %",
+        "HUF Yield": "0.10 %",
+        "Weighted Fund Yield HUF": "0.10 %",
         "CZK Yield": "0.22 %",
         "Weighted Fund Yield CZK": "0.22 %",
         "PLZ Yield": "-0.37 %",
@@ -28933,7 +28933,7 @@
       "Rate of Participation": "100.00 %",
       "Weighted Fund Yield EUR": "0.22 %",
       "Weighted Fund Yield USD": "-0.08 %",
-      "Weighted Fund Yield HUF": "0.11 %",
+      "Weighted Fund Yield HUF": "0.10 %",
       "Weighted Fund Yield CZK": "0.22 %",
       "Weighted Fund Yield PLZ": "-0.37 %"
     },
@@ -31864,7 +31864,7 @@
     "data_structure_total": {
       "Rate of Participation": "100.00 %",
       "Weighted Fund Yield EUR": "0.41 %",
-      "Weighted Fund Yield USD": "0.10 %",
+      "Weighted Fund Yield USD": "0.11 %",
       "Weighted Fund Yield HUF": "0.29 %",
       "Weighted Fund Yield CZK": "0.40 %",
       "Weighted Fund Yield PLZ": "-0.19 %"
@@ -34719,7 +34719,7 @@
         "Rate of Participation": "53.09 %",
         "Yield (FC)": "5.55 %",
         "EUR Yield": "5.55 %",
-        "Weighted Fund Yield EUR": "2.95 %",
+        "Weighted Fund Yield EUR": "2.94 %",
         "USD Yield": "5.23 %",
         "Weighted Fund Yield USD": "2.78 %",
         "HUF Yield": "5.42 %",
@@ -37405,7 +37405,7 @@
         "Rate of Participation": "33.49 %",
         "Yield (FC)": "6.92 %",
         "EUR Yield": "7.24 %",
-        "Weighted Fund Yield EUR": "2.43 %",
+        "Weighted Fund Yield EUR": "2.42 %",
         "USD Yield": "6.92 %",
         "Weighted Fund Yield USD": "2.32 %",
         "HUF Yield": "7.11 %",
@@ -37456,15 +37456,15 @@
         "HUF Yield": "10.37 %",
         "Weighted Fund Yield HUF": "1.40 %",
         "CZK Yield": "10.49 %",
-        "Weighted Fund Yield CZK": "1.42 %",
+        "Weighted Fund Yield CZK": "1.41 %",
         "PLZ Yield": "9.84 %",
         "Weighted Fund Yield PLZ": "1.33 %"
       }
     },
     "data_structure_total": {
       "Rate of Participation": "100.00 %",
-      "Weighted Fund Yield EUR": "7.19 %",
-      "Weighted Fund Yield USD": "6.87 %",
+      "Weighted Fund Yield EUR": "7.18 %",
+      "Weighted Fund Yield USD": "6.86 %",
       "Weighted Fund Yield HUF": "7.06 %",
       "Weighted Fund Yield CZK": "7.18 %",
       "Weighted Fund Yield PLZ": "6.55 %"
