@@ -201,21 +201,27 @@
       "Till": ""
     }
   },
-  "Aasa Credit Insurance": {
-    "GTC - 14171101": {
-      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtQg0Okyn8FInd6Un92FE_kB1VqNTZ64IrOcg1SVD2YNFw?e=krjAoB",
-      "Effective From": "",
-      "Till": ""
-    },
-    "GTC - 80161101": {
-      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Et5vXMt91KpDpOq-VZLMgpsBRpPruaqBSG2_ERQ-NAv6Fw?e=6kw34U",
-      "Effective From": "2016-11-23",
-      "Till": "2017-10-31"
-    },
-    "GTC - 80171102": {
-      "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhUfhWZdh61PnT31vxVULwsBqYOhZJwgXmaZxR1_o3tDSw?e=bfBJ8Y",
-      "Effective From": "2017-11-01",
-      "Till": "2019-07-31"
+  "SE": {
+    "Aasa Credit Insurance": {
+      "GTC - 14171101": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtQg0Okyn8FInd6Un92FE_kB1VqNTZ64IrOcg1SVD2YNFw?e=krjAoB",
+        "Effective From": "",
+        "Till": ""
+      }
+    }
+  },
+  "FI": {
+    "Aasa Credit Insurance": {
+      "GTC - 80161101": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Et5vXMt91KpDpOq-VZLMgpsBRpPruaqBSG2_ERQ-NAv6Fw?e=6kw34U",
+        "Effective From": "2016-11-23",
+        "Till": "2017-10-31"
+      },
+      "GTC - 80171102": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EhUfhWZdh61PnT31vxVULwsBqYOhZJwgXmaZxR1_o3tDSw?e=bfBJ8Y",
+        "Effective From": "2017-11-01",
+        "Till": "2019-07-31"
+      }
     }
   },
   "NOVIS Best Protection": {
