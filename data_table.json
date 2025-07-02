@@ -240,7 +240,7 @@
       "GTC - 17210810": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Ep8ew591XxhJimUUso7Ib-4B453Y34MASXyZSPmdCI7ikQ?e=8CEizv",
         "Effective From": "2021-08-02",
-        "Till": ""
+        "Till": "N/A"
       }
     },
     "NOVIS Life Savings Plan": {
@@ -300,8 +300,8 @@
       },
       "GTC - 17190805": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgCpDxsb_OlHr3yOABjJ_LoB1Jfh-L_Ck_cMMb71_iLs5g?e=htA2J9",
-        "Effective From": "",
-        "Till": ""
+        "Effective From": "N/A",
+        "Till": "N/A"
       }
     }
   },
@@ -356,7 +356,7 @@
       },
       "GTC - 60220022": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/Eo4SCyshb7dAn-uharWXwmYBZkc_lrkKTlrrmBs_63Y_iA?e=8ZVnj9",
-        "Effective From": "",
+        "Effective From": "N/A",
         "Till": "2022-10-21"
       },
       "GTC - 60220026": {
@@ -388,7 +388,7 @@
       },
       "GTC - 60220023": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqeSmXpU3FdHuMyS-opXKmEB8NUq0bfahEJjklwcAdrdQg?e=fEk2eA",
-        "Effective From": "",
+        "Effective From": "N/A",
         "Till": "2022-10-21"
       },
       "GTC - 60220027": {
@@ -481,21 +481,28 @@
         "Effective From": "2018-07-01",
         "Till": "2018-09-04"
       }
+    },
+    "NOVIS SCM Sustainable Plan": {
+      "GTC - 60230035": {
+        "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EjCMooXPRRxMvE5neELA868BFf9_fxjthzrG1gG4fOvh6Q?e=gQYHjz",
+        "Effective From": "2023-05-17",
+        "Till": "N/A"
+      }
     }
   },
   "FI": {
     "Aasa Accidental Permanent and Partial Disability and Critical Illness Protection": {
       "GTC - 80180204": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EgyxE0toadhHgtAtnNghmbgBMMpn8vuF_DBLSh3bIiS5dQ?e=6O6dqf",
-        "Effective From": "",
-        "Till": ""
+        "Effective From": "N/A",
+        "Till": "N/A"
       }
     },
     "Aasa Accidental Permanent Consequences greater than 50% and Critical Illness Protection": {
       "GTC - 80171103": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EqEI6oDAVdZJr4o7oncVZmEBVqkggU7UEzyk6xga0R0Okw?e=3OCyIe",
-        "Effective From": "",
-        "Till": ""
+        "Effective From": "N/A",
+        "Till": "N/A"
       }
     },
     "Aasa Credit Insurance": {
@@ -522,8 +529,8 @@
     "Aasa Credit Insurance": {
       "GTC - 14171101": {
         "URL": "https://novis.sharepoint.com/:f:/s/Documentstodownload/EtQg0Okyn8FInd6Un92FE_kB1VqNTZ64IrOcg1SVD2YNFw?e=krjAoB",
-        "Effective From": "",
-        "Till": ""
+        "Effective From": "N/A",
+        "Till": "N/A"
       }
     }
   },
